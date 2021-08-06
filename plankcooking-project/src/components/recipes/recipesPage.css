@@ -1,0 +1,29 @@
+.test {
+  background-color: burlywood;
+}
+
+.titleSection {
+  font-size: 20px;
+  border-top: 2px dotted #bc9a72;
+
+  border-bottom: 2px dotted #bc9a72;
+  font-size: 18px;
+  color: #af6900;
+}
+
+.recipesFillerBG {
+  background-color: #624e35;
+}
+
+.historyImage {
+  width: 99%;
+}
+
+p {
+  color: #ede6cf;
+}
+
+a {
+  color: #ede6cf !important;
+  text-decoration: underline !important;
+}

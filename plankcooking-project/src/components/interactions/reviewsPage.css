@@ -1,0 +1,54 @@
+.test {
+  background-color: burlywood;
+}
+
+.titleSection {
+  font-size: 20px;
+  border-top: 2px dotted #bc9a72;
+
+  border-bottom: 2px dotted #bc9a72;
+  font-size: 18px;
+  color: #af6900;
+}
+
+.reviewContentsContainer {
+  height: 50vh;
+}
+
+.titleSectionRight {
+  border-right: 2px dotted #bc9a72;
+}
+
+.recipesFillerBG {
+  background-color: #624e35;
+}
+
+.reviewImage {
+  width: 98%;
+  margin-left: 2px;
+  /* height: 95%; */
+}
+
+.reviewContainer {
+  background-image: url("/img/HeaderImage_background.png");
+  background-size: 99% 104%;
+  background-repeat: no-repeat;
+  padding: 15px;
+  object-fit: cover;
+}
+
+.reviewTitleContainer {
+  color: #b49a72;
+  border-bottom: 2px dotted #bc9a72;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+p {
+  color: #ede6cf;
+}
+
+a {
+  color: #ede6cf !important;
+  text-decoration: underline !important;
+}

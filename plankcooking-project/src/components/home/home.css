@@ -1,0 +1,14 @@
+.test {
+  background-color: aqua;
+}
+
+.rotatorHomeBG {
+  background-image: url("/img/HeaderImage_background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: fixed;
+}
+
+.rotatorImage {
+  padding: 24px;
+}

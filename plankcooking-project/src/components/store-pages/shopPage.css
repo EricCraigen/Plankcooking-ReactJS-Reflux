@@ -1,0 +1,43 @@
+.test {
+  background-color: burlywood;
+}
+
+.titles {
+  font-size: 20px;
+  border-top: 2px dotted #bc9a72;
+  font-size: 18px;
+  color: #af6900;
+}
+
+.titleSectionRight {
+  border-right: 2px dotted #bc9a72;
+  border-bottom: 2px dotted #bc9a72;
+}
+
+.recipesFillerBG {
+  background-color: #624e35;
+}
+
+.whiteT {
+  color: #ede6cf !important;
+  font-size: 11pt;
+}
+
+.qtyInput {
+  width: 10%;
+  text-align: center;
+}
+
+.addToCart {
+  background-image: url("/img/AddToCart_button.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 25px;
+  width: 100px;
+}
+
+a {
+  color: #ede6cf !important;
+  text-decoration: underline !important;
+}

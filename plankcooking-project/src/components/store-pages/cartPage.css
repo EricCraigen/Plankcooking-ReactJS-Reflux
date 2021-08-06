@@ -1,0 +1,96 @@
+.test {
+  background-color: burlywood;
+}
+
+.buttonContShopping {
+  background-image: url("/img/ContinueShopping_button.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 25px;
+}
+
+.buttonCheckout {
+  background-image: url("/img/Checkout_button.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 25px;
+}
+
+.cartHead {
+  background-color: #bc9a72;
+}
+
+.cartTable {
+  background-color: #e8e3c8;
+}
+
+.cartHeaderCells1 {
+  background-color: #d2be9d;
+  width: 67%;
+  border: dashed #4b290c 1px;
+  align-items: center;
+}
+
+.cartCells1 {
+  width: 67%;
+  border: dashed #4b290c 1px;
+  border-top: none;
+  align-items: center;
+}
+
+.cartCellSingle {
+  border-right: dashed #4b290c 1px;
+  width: 33%;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.cartHeaderCells {
+  background-color: #d2be9d;
+  width: 11%;
+  justify-content: center;
+  border-top: dashed #4b290c 1px;
+  border-right: dashed #4b290c 1px;
+  border-bottom: dashed #4b290c 1px;
+  align-items: center;
+}
+
+.cartCells {
+  width: 11%;
+  justify-content: center;
+  border-right: dashed #4b290c 1px;
+  border-bottom: dashed #4b290c 1px;
+  align-items: center;
+}
+
+.subTotalCell {
+  border: dashed #4b290c 1px;
+  border-right: none;
+  border-top: none;
+  /* border-right: none; */
+}
+
+.cartInputs {
+  width: 30%;
+  height: 25px;
+  text-align: center;
+}
+
+.cartRemoveButton {
+  background-image: url("/img/Remove_button.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 18px;
+}
+
+.cartCells1ND {
+  width: 67%;
+  visibility: hidden;
+}
+
+p {
+  color: #4b290c !important;
+}

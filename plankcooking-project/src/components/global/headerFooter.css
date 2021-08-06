@@ -1,0 +1,37 @@
+.test {
+  background-color: green;
+}
+
+/* Header Start */
+
+.brandStyle {
+  height: 155px;
+}
+
+.navStyles {
+  background-color: #22190f;
+  height: 50px;
+  width: 100%;
+  font-size: 20px;
+  /* position: fixed; */
+}
+
+.navLinks {
+  color: #9c805f !important;
+  /* font-size: 27px !important; */
+}
+
+/* Header End */
+
+/* Footer Start */
+
+.footerLinks {
+  color: #9c805f !important;
+}
+
+.footerLink {
+  color: #9c805f !important;
+  font-size: 15px;
+}
+
+/* Footer End */

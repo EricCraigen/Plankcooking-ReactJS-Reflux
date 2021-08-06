@@ -1,0 +1,62 @@
+.test {
+  background-color: burlywood;
+}
+
+.aboutMeImageContainer {
+  background-image: url("/img/HeaderImage_background.png");
+  background-size: 100% 104%;
+  background-repeat: no-repeat;
+  padding: 15px;
+  padding-left: 20px;
+  object-fit: cover;
+}
+
+.aboutMeImage {
+  margin-top: 5px;
+  /* height: 80%; */
+  width: 99%;
+}
+
+.aboutMeLinksTop {
+  border-top: 2px dotted #bc9a72;
+  font-size: 18px;
+  border-bottom: 2px dotted #bc9a72;
+  font-size: 18px;
+}
+
+.aboutMeLinks {
+  border-bottom: 2px dotted #bc9a72;
+  font-size: 18px;
+}
+
+.aboutMeLinkColor {
+  color: #d1e8d1;
+}
+
+.aboutMeHeaderLinks {
+  width: 100%;
+}
+
+.titleSection {
+  font-size: 20px;
+  border-bottom: 2px dotted #bc9a72;
+  font-size: 18px;
+  color: #af6900;
+}
+
+.aboutMeFillerBG {
+  background-color: #624e35;
+}
+
+.historyImage {
+  width: 99%;
+}
+
+p {
+  color: #ede6cf;
+}
+
+a {
+  color: #ede6cf !important;
+  text-decoration: underline !important;
+}
